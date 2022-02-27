@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Full and true account of the damages and murders done and committed on the estates and lives of the Protestants, by the Irish rebels in Ireland, being a compleat computation of all the losses sustained by the King, the church, the gentry, and kingdom in general.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84966</idno>
+            <idno type="STC">Wing F2302C</idno>
+            <idno type="STC">ESTC R177228</idno>
+            <idno type="EEBO-CITATION">45097792</idno>
+            <idno type="OCLC">ocm 45097792</idno>
+            <idno type="VID">171379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84966)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2572:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Full and true account of the damages and murders done and committed on the estates and lives of the Protestants, by the Irish rebels in Ireland, being a compleat computation of all the losses sustained by the King, the church, the gentry, and kingdom in general.</title>
+                  <author>Fraser, James.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Cadman.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: This may be printed, James Fraser.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171379:1"/>
+            <head>A Full and True ACCOUNT OF THE DAMAGES and MURDERS Done and Committed on the <hi>Eſtates and Lives of the Proteſtants.</hi> BY THE IRISH REBELS IN IRELAND, BEING A Compleat Computation of all the Loſſes ſuſtained by the King, the Church, the Nobility, Gentry, and Kingdom in general.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>1. THE King loſt in his Revenue of <hi>Ireland,</hi> and the <hi>Iriſh</hi> got by their Rebellion at 50000 Pounds <hi>per Annum,</hi> which accounting from the <hi>23d.</hi> of <hi>October,</hi> 1641. (being the Time when the Rebellion began) only to the Year, 1650. when the <hi>Engliſh</hi> began to prevail, being Nine Years, amounts to</cell>
+                     <cell>450000</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">
+                        <hi>The Proteſtant Church loſt, and the</hi> Iriſh <hi>got, within this time, as followss.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2. THE Revenue of 4 Arch-Biſhops, and 18 Biſhops, during that time, at leaſt 30000 pound, <hi>per Annum,</hi> amounting to</cell>
+                     <cell>270000</cell>
+                  </row>
+                  <row>
+                     <cell>The Proteſtant Clergy of above 2000 Pa<g ref="char:EOLhyphen"/>riſhes, loſt during the ſaid time, at leaſt 60000 pound <hi>per Annum.</hi>
+                     </cell>
+                     <cell>540000</cell>
+                  </row>
+                  <row>
+                     <cell>The Rents of the Proteſtant Nobility, at leaſt 100000 pound <hi>per Annum,</hi> got by the <hi>
+                           <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>riſh</hi> during that time, amounts to</cell>
+                     <cell>900000</cell>
+                  </row>
+                  <row>
+                     <cell>The Rents of the other Proteſtants, du<g ref="char:EOLhyphen"/>ring that time, at leaſt 150000 pound <hi>per Annum.</hi>
+                     </cell>
+                     <cell>1350000</cell>
+                  </row>
+                  <row>
+                     <cell>The Perſonal Eſtates, plundered by the Rebels, from all the ſaid Proteſtants, at leaſt</cell>
+                     <cell>700000</cell>
+                  </row>
+                  <row>
+                     <cell>The Damages ſuſtained by all the ſaid Pro<g ref="char:EOLhyphen"/>teſtants, in having their Plantations deſtroy<g ref="char:EOLhyphen"/>ed, their Houſes burnt, Purchaſe leſſened, the Country diſ-peopled,</cell>
+                     <cell>3000000</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">
+                        <hi>The Pay of the ſeveral Armies Employ'd to ſuppreſs the Rebellion is as follow.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>3. IT appears by Records now in <hi>Dublin,</hi> that the Pay of the <hi>Engliſh</hi> Officers, who ſerved his Majeſty, from the <hi>23d.</hi> of <hi>October,</hi> 1641. to the <hi>6th.</hi> of <hi>June,</hi> 1649. amounts to</cell>
+                     <cell>1800000</cell>
+                  </row>
+                  <row>
+                     <cell>The pay of non-Commiſſioned Officers, and private Soldiers, was double the afore<g ref="char:EOLhyphen"/>ſaid Sum.</cell>
+                     <cell>3600000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb facs="tcp:171379:2" rendition="simple:additions"/> The <hi>Scots</hi> Army being about 12000 Horſe and Foot, tho that Account was never ad<g ref="char:EOLhyphen"/>juſted, could not be leſs than,</cell>
+                     <cell>1800000</cell>
+                  </row>
+                  <row>
+                     <cell>The Pay of the Army, which actually ſuppreſſed the ſaid Rebellion, from the <hi>6th.</hi> of <hi>June,</hi> 1649. until <hi>October</hi> 1654, appears by Records to be</cell>
+                     <cell>3500000</cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="2">
+                        <hi>The Abſtract of the aforeſaid account.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>THE <hi>Iriſh</hi> got by the Rebellion, from the King, Church, and Proteſtants, as appears</cell>
+                     <cell>4390000</cell>
+                  </row>
+                  <row>
+                     <cell>The Proteſtants dammaged by the ſaid Rebellion.</cell>
+                     <cell>3000000</cell>
+                  </row>
+                  <row>
+                     <cell>The Pay of the ſeveral Armies.</cell>
+                     <cell>10700000</cell>
+                  </row>
+                  <row>
+                     <cell>So that the Coſt and Charge given the <hi>Engliſh,</hi> and occaſioned by the <hi>Iriſh</hi> Rebels, amounts to</cell>
+                     <cell>18090000</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <hi>Beſide above</hi> 500000 <hi>Perſons deſtroy'd on both ſides by Reaſon of the ſaid Rebellion.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>Anno,</hi> 1641</cell>
+                     <cell role="label">
+                        <hi>Annual</hi> 1641.</cell>
+                     <cell role="label">Purchaſe in 1641. 12 Years.</cell>
+                     <cell role="label">
+                        <hi>Annual,</hi> value redu<g ref="char:EOLhyphen"/>ced to <hi>6d. Sterl.</hi> in 1653</cell>
+                     <cell role="label">Purchaſe in 1653. at 8 Years.</cell>
+                     <cell role="label">Damag'd by the Re<g ref="char:EOLhyphen"/>bellion.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iriſh</hi> Pro<g ref="char:EOLhyphen"/>priety be<g ref="char:EOLhyphen"/>ſide Incum<g ref="char:EOLhyphen"/>bred about.</cell>
+                     <cell>4 Mil<g ref="char:EOLhyphen"/>lions of A<g ref="char:EOLhyphen"/>cres.</cell>
+                     <cell>400000.</cell>
+                     <cell>4800000.</cell>
+                     <cell>100000.</cell>
+                     <cell>800000.</cell>
+                     <cell>4000000.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Engliſh</hi> Propriety.</cell>
+                     <cell>2 Milli<g ref="char:EOLhyphen"/>ons, 800000 Acres.</cell>
+                     <cell>280000.</cell>
+                     <cell>360000.</cell>
+                     <cell>70000.</cell>
+                     <cell>560000.</cell>
+                     <cell>2800000.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>This <hi>Diagram</hi> ſhews what Number of Acres the <hi>Iriſh</hi> were poſſeſs'd of, in the Year 1641; and alſo what the <hi>Engliſh</hi> had, except ſome of their Eſtates that were in<g ref="char:EOLhyphen"/>cumbred by Mortgages (as is made appear by the Re<g ref="char:EOLhyphen"/>cords in the Surveyor General's Office) to the Number of Two Millions of Acres; and that by the Records in the Auditors Office, they had as many Houſes in Wall'd Towns, Rectories, and Tythes, as did amount to 70000 <hi>l. per Annum:</hi> It alſo appears by the ſame Records, that the <hi>Engliſh</hi> had many Houſes, Rectories, and Tythes, in Citys and Wall'd Towns, which were deſtroy'd, and are not contained in the above Diagram.</p>
+            <p>I can prove the <hi>Iriſh</hi> were reſtored to above half of what they were poſſeſs'd of in the Year 1641. being four Millions of Acres; and that what the Soldier and Adventurer got in lieu of the aforeſaid Damages, done to the King, Church, and State, by their Rebellion, is not above 2 Millions of Acres, which in the Year 1653, was worth but 400000 <hi>l.</hi> It is alſo plain, that there are many of them, who have lately purchaſed great Eſtates, and are now actually Imploy'd in the Ar<g ref="char:EOLhyphen"/>my under the Lord <hi>Tyrconnel;</hi> ſo that by another Con<g ref="char:EOLhyphen"/>queſt of them, they may forfeit more Lands than they did by their laſt Rebellion.</p>
+            <p>When <hi>Cromwell</hi> had ſubdued the <hi>Iriſh</hi> Rebels, they did by their uſual art of Inſinuation procure leave of him to be try'd Man <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Man according to their re<g ref="char:EOLhyphen"/>ſpective Qualifications, and a Judicature to be ſet up at <hi>Athlone</hi> for that purpoſe, without any Limitation of time to try ſuch as pretend were Innocent; whereupon ſuch as could by good Proofs make appear, they were ab<g ref="char:EOLhyphen"/>ſent during the Rebellion, or bore conſtant and good Affection to the <hi>Engliſh</hi> Intereſt, or were Lunaticks or Minors, were all reſtored to their reall and perſonal E<g ref="char:EOLhyphen"/>ſtates.</p>
+            <p>This Court fitting four years gave all their Innocents time enough to ſet forth their wrongs, and to prevail with the Uſurpers, to have Large Scopes of Lands ſet forth in the Province of <hi>Connaught;</hi> and County of <hi>Clare</hi> to ſuch <hi>Iriſh</hi> as could prove there was no Record of Outlary againſt them; by which means, and by a year given them ſince the Reſtoration, they were Re<g ref="char:EOLhyphen"/>ſtored to above half of what they loſt, though it has appear'd ſince that they were in the Rebels Army, that they choſe Members to ſit in the Supream Council at <hi>Kilkenney,</hi> and paid Contribution to it.</p>
+            <p>Therefore it behoves all Engliſhmen, that have friends or any Eſtate in that Country, to endeavous at this time to ſuddue that great Army <hi>Tyrconnel</hi> has ſet up, againſt the known Laws of the Land, and to prevent the Sub<g ref="char:EOLhyphen"/>verſion of the Government, and the deſign he has, not only to rob us of our Eſtates, but alſo Extirpate the Hereticks out of the Kingdom, and to ſet up the Juriſ<g ref="char:EOLhyphen"/>diction of a Foreign Potentate. In doeing this we ſhall not only ſettle a laſting Peace in that Kingdome, but alſo incapacitate them from ever attempting the leaſt evill againſt the Proteſtants; The Proteſtants who have Eſtates will add to'em, and they who have none, will get ſome.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <signed>James Fraſer.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> W. Cadman. 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
